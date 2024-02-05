@@ -1,6 +1,4 @@
 # Breakout
-# 2021 James C. Hill
-
 #  Import and initialize Pygame
 import pygame
 # Import necessary modules
